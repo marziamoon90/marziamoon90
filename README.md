@@ -42,9 +42,9 @@
  
 ### ⚙️ &nbsp;GitHub Analytics
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
-<a href='https://github.com/mdtaufiqurrahman'>
-  <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mdtaufiqurrahman&theme=merko&layout=compact&hide=python,powershell'>
+<a href='https://github.com/marziamoon90'>
+  <img align='left' width='45%' src=''>
 </a>
 <a href='https://github.com/marziamoon90'>
-  <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=mdtaufiqurrahman&theme=merko&show_icons=true'>
+  <img align='right' width='45%' src=''>
 </a>
